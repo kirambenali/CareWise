@@ -36,4 +36,5 @@ CareWise est une application mobile complémentaire à StepWise, conçue pour le
 | **Web Scraping**| Extraction d’offres et de ressources spécialisées                              |
 
 
-
+---
+![Aperçu de StepWise](CareWise-Interfaces.jpg)
